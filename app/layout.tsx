@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "ABCD123", // Changed to roll number as per requirement
+  title: "22BAI70683",
   description: "Process arrays to separate numbers and alphabets",
 };
 
